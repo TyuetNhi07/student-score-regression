@@ -1,0 +1,7 @@
+numpy>=2.1
+pandas>=2.2.3
+scikit-learn>=1.5.2
+joblib
+ipywidgets>=8.1
+voila>=0.5
+notebook>=7.2
